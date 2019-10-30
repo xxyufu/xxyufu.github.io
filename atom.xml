@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xxyufu.github.io</id>
     <title>小小愚夫</title>
-    <updated>2019-10-30T07:19:45.157Z</updated>
+    <updated>2019-10-30T07:30:17.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xxyufu.github.io"/>
     <link rel="self" href="https://xxyufu.github.io/atom.xml"/>
@@ -11,6 +11,17 @@
     <icon>https://xxyufu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 小小愚夫</rights>
     <entry>
+        <title type="html"><![CDATA[CCleaner | 系统清理、优化和隐私保护工具，可用于 Windows、Mac 等不同系统的电脑清理]]></title>
+        <id>https://xxyufu.github.io/post/ccleaner-or-xi-tong-qing-li-you-hua-he-yin-si-bao-hu-gong-ju-ke-yong-yu-windowsmac-deng-bu-tong-xi-tong-de-dian-nao-qing-li</id>
+        <link href="https://xxyufu.github.io/post/ccleaner-or-xi-tong-qing-li-you-hua-he-yin-si-bao-hu-gong-ju-ke-yong-yu-windowsmac-deng-bu-tong-xi-tong-de-dian-nao-qing-li">
+        </link>
+        <updated>2019-10-30T07:29:03.000Z</updated>
+        <content type="html"><![CDATA[<p>在我们常见的系统清理软件中，都存在以下几个毛病，清理速度慢，占用运行空间大，对隐私的保护不到位，最痛恨的就是在你安装完成之后，你的桌面会冒出很多你没有安装的软件、浏览器，使你的电脑越清理越慢。</p>
+<p>CCleaner 是一款免费的系统优化和隐私保护工具，它的主要功能是用来清除Windows系统不再使用的垃圾文件，以及清除使用者的上网记录。它的体积非常只有 10 几兆，而运行时所占用的空间也不过只有 20 几兆，相当于开启一个浏览器所占用的空间，并且这款软件不携带任何流氓软件，所以你不会担心安装完成之后电脑多出一大堆软件。</p>
+<p>操作很简单，初学者可以在几秒钟内优化他们的电脑，在 CCleaner 中还有很多人性化的选项，比如你不想清理某个隐私文件夹，你可以在选项中点击【排除】选择【添加】，勾选【驱动器或文件夹】点击浏览，选择你不想清理的文件夹，在清洁器 windows 列表中，可以清除IE浏览器中的缓存文件、历史文件以及保存的密码，更好的起到了保护隐私的目的。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[removebg | 一键抠图，智能去除图片背景。]]></title>
         <id>https://xxyufu.github.io/post/removebg-or-yi-jian-kou-tu-zhi-neng-qu-chu-tu-pian-bei-jing</id>
         <link href="https://xxyufu.github.io/post/removebg-or-yi-jian-kou-tu-zhi-neng-qu-chu-tu-pian-bei-jing">
@@ -18,38 +29,6 @@
         <updated>2019-10-30T07:11:43.000Z</updated>
         <content type="html"><![CDATA[<p>只要简单选择图片，就可以一键智能去除背景，主要针对人像进行处理。基本上不需要任何手动操作。从效果图中可以看到，对于毛发部分的抠出也算是相当精细了。这个在线应用可能在国内无法打开，因为它使用了谷歌的服务器。</p>
 <p>应用链接</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://xxyufu.github.io/post/hello-gridea</id>
-        <link href="https://xxyufu.github.io/post/hello-gridea">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
